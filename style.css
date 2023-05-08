@@ -27,6 +27,8 @@ body {
   padding: 1.5rem;
   margin: 5rem auto;
   text-align: center;
+
+  box-shadow: 0 1.5rem 2rem rgba(0, 0, 0, 0.02);
 }
 
 .component-qr-image {
